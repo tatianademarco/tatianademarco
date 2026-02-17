@@ -4,15 +4,14 @@
   </a>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatianademarco&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatianademarco&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tatianademarco&theme=monokai)
+<div align="center">
+    <img height="190px" src="./src/me.gif">
+</div>
 
-<img align="right" alt="" height="190px" src="./src/me.gif">
+#
 
-<h3 align="left">Ferramentas Principais:</h3>
-  
-<div style="display: inline_block" align="left"><br>
+<h4 align="left">Ferramentas Principais:</h4>
+<div style="display: inline_block">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">

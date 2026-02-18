@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
@@ -8,7 +8,7 @@
     <img height="190px" src="./src/me.gif">
 </div>
 
-#
+# -->
 
 <!-- <h4 align="left">Ferramentas Principais:</h4>
 <div style="display: inline_block">
@@ -37,14 +37,12 @@
   <img src="https://raw.githubusercontent.com/tatianademarco/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
-<br/>
+<!-- <br/> -->
 
 <!-- <div align="center">
   <img src="https://raw.githubusercontent.com/tatianademarco/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div> -->
-
-<br/>
-
+#
 <details>
 <summary><strong>More about me</strong></summary>
 
@@ -56,17 +54,34 @@ I enjoy connecting logic, creativity and design to build meaningful digital expe
 Always learning. Always building.
 
 </details>
+<div align="center">
+
+<!-- <br/><br/> -->
+
+
 
 <br/>
 
-<div align="center">
+<img alt="" height="190px" src="./src/me.gif">
+
+<h3>Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:tatimariademarco@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/tatiana-demarco-707274241/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/tatiana.demarco)
+
+</div>
+
+<!-- <div align="center">
   <a href="mailto:tatimariademarco@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="www.linkedin.com/in/tatiana-demarco-707274241">
+  <a href="https://www.linkedin.com/in/tatiana-demarco-707274241">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
-</div>
+</div> -->
+
+
   
 
 <picture align="center">

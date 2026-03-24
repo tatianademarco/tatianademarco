@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/tatianademarco/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
 </div> -->
 #
-<details>
+<!-- <details>
 <summary><strong>More about me</strong></summary>
 
 <br/>
@@ -53,7 +53,7 @@ I enjoy connecting logic, creativity and design to build meaningful digital expe
 
 Always learning. Always building.
 
-</details>
+</details> -->
 <div align="center">
 
 <!-- <br/><br/> -->
